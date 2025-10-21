@@ -2,7 +2,6 @@
 #include <string>
 #include <cstdlib>  // for rand()
 #include <ctime>    // for time()
-
 using namespace std;
 
 // Function 1: Decimal to Binary
